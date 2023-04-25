@@ -73,6 +73,7 @@ git clone https://github.com/Mnzs1701/camera_calib_python/
 
 3. Follow the instructions in the GitHub Repository to verify your calibration matrix
 
+4. For further documentation regarding camera calibration click [here](https://www.ics.uci.edu/~majumder/docs/cameracalib.pdf)
 
 ### For libboost error:
 
