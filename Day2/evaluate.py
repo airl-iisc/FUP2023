@@ -13,11 +13,11 @@ with open(filename) as f:
     x1e = abs(float(tokens[1][1:])-0.16)
     y1e = abs(float(tokens[2][1:])-0.475)
 
-    x2e = abs(float(tokens[5][1:])-0.105)
-    y2e = abs(float(tokens[6][1:])-0.45)
+    x2e = abs(float(tokens[6][1:])-0.105)
+    y2e = abs(float(tokens[5][1:])-0.45)
 
-    x3e = abs(float(tokens[9][1:])-0.335)
-    y3e = abs(float(tokens[10][1:])-0.63)
+    x3e = abs(float(tokens[10][1:])-0.335)
+    y3e = abs(float(tokens[9][1:])-0.63)
     
     print("Errors in each point")
     print(x1e,y1e)
